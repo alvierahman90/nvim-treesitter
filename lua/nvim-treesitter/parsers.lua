@@ -2400,7 +2400,7 @@ list.vim = {
 
 list.vimdoc = {
   install_info = {
-    url = "https://github.com/neovim/tree-sitter-vimdoc",
+    url = "https://github.com/alvierahman90/tree-sitter-vimdoc",
     files = { "src/parser.c" },
   },
   filetype = "help",
